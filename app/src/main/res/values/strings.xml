@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Alcohol(ism)Optimizer</string>
+
+    /*Buttons*/
+    <string name="m_bt_comp">Compare</string>
+    <string name="r_bt_ok">OK</string>
+
+    /*Main*/
+    <string name="m_drink1">Drink 1</string>
+    <string name="m_name_hint_dr1">Name</string>
+    <string name="m_alcVol_hint_dr1">Alcohol volume (i.e. 4,7)</string>
+    <string name="m_vol_hint_dr1">Volume in desilitres (i.e. 3,3)</string>
+    <string name="m_price_hint_dr1">Price (i.e. 4,5)</string>
+    <string name="m_drink2">Drink 2</string>
+    <string name="m_name_hint_dr2">Name</string>
+    <string name="m_alcVol_hint_dr2">Alcohol volume</string>
+    <string name="m_vol_hint_dr2">Volume in desilitres</string>
+    <string name="m_price_hint_dr2">Price</string>
+
+    <string name="m_err7">All parametres must be filled!</string>
+
+    /*Result*/
+    <string name="r_res1">Choose</string>
+    <string name="r_res2">Choose</string>
+    <string name="r_res3">Choose taste!</string>
+
+    <string name="r_err">Check your values!</string>
+
+</resources>
